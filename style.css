@@ -11,7 +11,7 @@ body {
     height: 100vh;
 }
 
-body h2 {
+body h1 {
     text-align: center;
     font-size: 21px;
     color: hsl(218, 44%, 22%);
